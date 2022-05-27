@@ -1,0 +1,9 @@
+html {
+    font-size: 10px;
+    background: url(./background.jpg) bottom center;
+    background-size: cover;
+    background: pink;
+}
+body,html {
+    margin: 6px;
+}
